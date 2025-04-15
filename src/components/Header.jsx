@@ -1,6 +1,5 @@
-import React from 'react';
+import React,{useState} from 'react';
 import logo from '../assets/images/Untitled Project.jpg';
-import Navbar from '../utils/navbar';
 
 const Header = () => {
   return (
